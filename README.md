@@ -10,14 +10,15 @@ Me chamo João Gabriel, tenho 21 anos e sou natural de Aracaju/SE. Atualmente, e
         <img 
             alt="linkedin" 
             title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/badge/linkedin-blue?logo=link909098&style=for-the-badge&labelColor=1155ba
+            "
         />
     </a> 
     <a href="https://github.com/joaogadev">
         <img 
             alt="Github" 
             title="GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/GITHUB-purple?logo=github&style=for-the-badge
+            src="https://custom-icon-badges.demolab.com/badge/github-blue?logo=github&style=for-the-badge&labelColor=1155ba
             "
         />
     </a>
@@ -116,7 +117,7 @@ Me chamo João Gabriel, tenho 21 anos e sou natural de Aracaju/SE. Atualmente, e
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200px" 
+    height="180px" 
     style="padding-right: 10px;padding-bottom: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=joaogadev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -124,7 +125,7 @@ Me chamo João Gabriel, tenho 21 anos e sou natural de Aracaju/SE. Atualmente, e
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200px" 
+      height="180px" 
       style="padding-bottom: 10px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogadev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
