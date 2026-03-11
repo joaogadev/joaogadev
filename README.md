@@ -125,7 +125,7 @@ Me chamo João Gabriel, tenho 21 anos e sou natural de Aracaju/SE. Atualmente, e
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180px" 
+      height="200px" 
       style="padding-bottom: 10px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogadev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
