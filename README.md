@@ -121,6 +121,6 @@ Me chamo João Gabriel, tenho 21 anos e sou natural de Aracaju/SE. Atualmente, e
 
   <img 
     height="160px"
-    src="https://github-readme-stats.vercel.app/api?username=joaogadev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaogadev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800"
   />
 </p>
