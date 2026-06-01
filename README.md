@@ -118,7 +118,7 @@ Me chamo João Gabriel, tenho 21 anos e sou natural de Aracaju/SE. Atualmente, e
     align="left" 
     alt="GitHub Stats" 
     height="180px" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=joaogadev&theme=tokyo-night&hide_border=true"
+    src="https://streak-stats.demolab.com?user=joaogadev&theme=tokyonight&hide_border=true"
   />
 
 <img 
@@ -126,7 +126,7 @@ Me chamo João Gabriel, tenho 21 anos e sou natural de Aracaju/SE. Atualmente, e
       alt="GitHub Stats" 
       height="180px" 
       style="padding-bottom: 10px"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=joaogadev&theme=tokyo-night&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api?username=joaogadev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" 
   />
 
 </p>
