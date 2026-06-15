@@ -1,126 +1,104 @@
-# 👩🏻‍💻 João Gabriel
+# 👋 Olá, eu sou João Gabriel
 
-**`Desenvolvedor`**
+🎓 Estudante de Ciência da Computação na Universidade Tiradentes (UNIT)
 
-Me chamo João Gabriel, tenho 21 anos e sou natural de Aracaju/SE. Atualmente, estou cursando Ciência da Computação na Universidade Tiradentes - UNIT. Sou apaixonado por animes, games e tecnologia. Todos os dias busco formas diferentes de aprender coisas novas no mundo da tecnologia, além de mostrar meus aprendizados em forma de projetos;
+💻 Desenvolvedor apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.
 
-<p align="left">
-    </a>
+🚀 Atualmente focado em Java, Spring Boot, Python e desenvolvimento Full Stack.
+
+🎮 Fã de games, animes e tudo que envolve inovação e criação de soluções.
+
+---
+
+## 🌐 Redes Sociais
+
+<p align="center">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-837b86314/">
-        <img 
-            alt="linkedin" 
-            title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/linkedin-blue?logo=link909098&style=for-the-badge&labelColor=1155ba
-            "
-        />
-    </a> 
+        <img src="https://img.shields.io/badge/LinkedIn-1155ba?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
     <a href="https://github.com/joaogadev">
-        <img 
-            alt="Github" 
-            title="GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/github-blue?logo=github&style=for-the-badge&labelColor=1155ba
-            "
-        />
+        <img src="https://img.shields.io/badge/GitHub-1155ba?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
 </p>
 
 ---
 
-## 🤖 Linguagens e Tecnologias
-<img 
-    align="left"
-    alt="Java"
-    title="Java"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-/>
-<img 
-    align="left"
-    alt="Sprin"
-    title="Spring"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
-/>   
+## 🛠️ Tecnologias
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>        
-<br/>
-<br/>
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+> Atualize esta seção conforme seus projetos evoluírem.
+
+### 📌 Nome do Projeto
+
+Breve descrição do projeto.
+
+🔗 https://github.com/joaogadev/repositorio
+
+### 📌 Nome do Projeto
+
+Breve descrição do projeto.
+
+🔗 https://github.com/joaogadev/repositorio
+
+### 📌 Nome do Projeto
+
+Breve descrição do projeto.
+
+🔗 https://github.com/joaogadev/repositorio
+
+---
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img 
-    height="160px"
-    src="https://streak-stats.demolab.com?user=joaogadev&theme=tokyonight&hide_border=true"
-  />
-
-  <img 
-    height="160px"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaogadev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800"
-  />
+    <img height="170em" src="https://streak-stats.demolab.com?user=joaogadev&theme=tokyonight&hide_border=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogadev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaogadev&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Snake Animation
+
+<p align="center">
+    <img src="https://github.com/joaogadev/joaogadev/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 🎯 Atualmente
+
+* 📚 Estudando Java e Spring Boot
+* 🌐 Desenvolvendo aplicações Full Stack
+* 🤖 Explorando Inteligência Artificial
+* ⚙️ Aprimorando arquitetura de software
+* 🚀 Construindo projetos para portfólio
+
+---
+
+> "A melhor forma de aprender é construir."
