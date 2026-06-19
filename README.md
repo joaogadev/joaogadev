@@ -54,7 +54,7 @@ Api de cadastro de usuarios, para aprendizado de Spring Security e JWT
 
 Aplicativo desktopm para limpeza de computador (Em desenolvimento)
 
-🔗 https://github.com/joaogadev/Api-Autentication
+🔗 https://github.com/joaogadev/Clean
 
 ---
 
