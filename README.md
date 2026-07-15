@@ -50,11 +50,17 @@ Api de cadastro de usuarios, para aprendizado de Spring Security e JWT
 
 🔗 https://github.com/joaogadev/Api-Autentication
 
-### 📌 Cleen: Limpeza de Compuatdor
+### 📌 SOS Rémedio
 
-Aplicativo desktopm para limpeza de computador (Em desenolvimento)
+Aplicativo mobile para análise e procura de rémedios na região (Em desenvolvimento)
 
-🔗 https://github.com/joaogadev/Clean
+🔗 https://github.com/joaogadev/SoS-Rem-dios
+
+### 📌 Search Jobs Automation
+
+Automação para procurar vagas com base no seu perfil profissional (Em desenvolvimento)
+
+🔗 https://github.com/joaogadev/Search-Jobs-Automation
 
 ---
 
